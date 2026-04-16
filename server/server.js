@@ -16,12 +16,12 @@ const app=express();
 app.use(cors({
   origin:"*"
 }));
-app.use(express.json());
+app.use(express.json());git 
 connectDB();
 dotenv.config();
-// app.get("/", (req, res) => {
-//   res.send("Zync backend is running 🚀");
-// });
+app.get("/", (req, res) => {
+  res.send("Zync backend is running 🚀");
+});
 app.post("/login", async (req, res) => {
   const { email, password } = req.body;
   try {
