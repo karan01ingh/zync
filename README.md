@@ -12,7 +12,7 @@ You can draw, chat, and share ideas live on the same board.
 ### Dashboard
 ![Dashboard](./screenshots/dashboard.png)
 
-### Board
+### SignUp
 ![SignUp](./screenshots/signup.png)
 
 ### Tools
