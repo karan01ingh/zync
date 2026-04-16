@@ -13,10 +13,17 @@ You can draw, chat, and share ideas live on the same board.
 ![Dashboard](./screenshots/dashboard.png)
 
 ### Board
-![Board](./screenshots/board.png)
+![SignUp](./screenshots/signup.png)
 
-### Chat
-![Chat](./screenshots/chat.png)
+### Tools
+![Tools](./screenshots/tools.png)
+
+### Inside Room
+![Inside_Room](./screenshots/whiteboard.png)
+
+### Inside Room
+![Inside_Room](./screenshots/whiteboard.png)
+
 
 ---
 
