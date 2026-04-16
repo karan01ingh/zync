@@ -16,7 +16,7 @@ const app=express();
 app.use(cors({
   origin:"*"
 }));
-app.use(express.json());git 
+app.use(express.json());
 connectDB();
 dotenv.config();
 app.get("/", (req, res) => {

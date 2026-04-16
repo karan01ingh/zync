@@ -24,7 +24,7 @@ export default function Dashboard() {
       //     Authorization: `Bearer ${token}`
       //   }
       // });
-      const res = await fetch("http://localhost:3000/boards", {
+      const res = await fetch("https://zync-yna7.onrender.com/boards", {
   headers: {
     "Content-Type": "application/json",
     Authorization: `Bearer ${token}`
@@ -182,7 +182,7 @@ export default function Dashboard() {
 
     const token = localStorage.getItem("token");
 
-    await fetch("http://localhost:3000/create-board", {
+    await fetch("https://zync-yna7.onrender.com/create-board", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
