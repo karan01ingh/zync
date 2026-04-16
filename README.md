@@ -4,6 +4,21 @@ Zync is a real-time collaborative whiteboard where multiple users can join a roo
 You can draw, chat, and share ideas live on the same board.
 
 ---
+## Screenshots
+
+### Login Page
+![Login](./screenshots/login.png)
+
+### Dashboard
+![Dashboard](./screenshots/dashboard.png)
+
+### Board
+![Board](./screenshots/board.png)
+
+### Chat
+![Chat](./screenshots/chat.png)
+
+---
 
 ## What you can do
 
