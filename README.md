@@ -21,9 +21,6 @@ You can draw, chat, and share ideas live on the same board.
 ### Inside Room
 ![Inside_Room](./screenshots/whiteboard.png)
 
-### Inside Room
-![Inside_Room](./screenshots/whiteboard.png)
-
 
 ---
 
