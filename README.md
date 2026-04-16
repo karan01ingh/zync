@@ -65,7 +65,7 @@ Backend:
 
 ## Live
 
-Frontend: https://your-vercel-link
+Frontend: https://zync-seven.vercel.app
 Backend: https://zync-yna7.onrender.com
 
 ---
